@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="hhttps://github.com/Nandos0804/csoundVerb">
+  <a href="https://github.com/csytp/WebCsoundVerb">
     <img src="images/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -21,7 +21,7 @@ Aggiungere Info e motivazioni
 
 ## Come Usare
 Da terminale, eseguire il codice `python -m http.server /path/folder`\
-Oppure avviare il sito https://nandos0804.github.io/csoundVerb/
+Oppure avviare il sito https://csytp.github.io/WebCsoundVerb/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
